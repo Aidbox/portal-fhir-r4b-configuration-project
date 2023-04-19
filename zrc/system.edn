@@ -24,7 +24,7 @@
   :search                  search-config
   :compatibility           compatibility-config
 
-  :fhir-version            "5.0.0"
+  :fhir-version            "4.3.0"
   :compliant-mode-enabled? true
   :override-createdat-url  "http://fhir.aidbox.app/extension/createdat"
   :correct-aidbox-format   true}
